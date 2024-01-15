@@ -2,8 +2,6 @@
 
 # URL: http://13.60.19.233
 
-## Kvůli nedostatku času díky testům a projektům z ostatních předmětů jsem pouze vytvořil funkční přihlášení
-
 ## Technologie:
 
 - Programovací jazyk: Aplikace je napsána v jazyce PHP.

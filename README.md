@@ -5,7 +5,6 @@
 ## Technologie:
 
 - Programovací jazyk: Aplikace je napsána v jazyce PHP.
-- Databáze: Používá souborovou databázi ve formě JSON souboru pro ukládání uživatelských dat.
 - Frontend: Využívá HTML pro strukturu stránky a Bootstrap (verze 4.0.0) pro stylování a responzivní design.
 - Client-side skripty: Využívá jQuery (verze 3.6.0) pro interaktivní prvky na stránce.
 - Aplikace používá bezpečné metody pro ukládání hesel (hashování).
